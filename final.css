@@ -16,8 +16,8 @@ h1:hover {
 }
 
 @keyframe color {
-	from {color: #436E35}
-	to {color: #333D30}
+	from {color: #436E35;}
+	to {color: #333D30;}
 }
 
 a {

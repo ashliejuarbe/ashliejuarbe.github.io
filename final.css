@@ -9,6 +9,9 @@ h1 {
 
 h1:hover {
 	color: #333D30;
+	transition: all 2s ease-in-out;
+	-webkit-transition: all 2s ease-in-out;
+	-moz-transition: all 2s ease-in-out;
 }
 
 a {

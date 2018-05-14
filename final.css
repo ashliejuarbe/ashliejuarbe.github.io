@@ -7,8 +7,8 @@ h1 {
 	text-align: center;
 	animation-name: color;
 	animation-duration; 2s;
-	animation-iteration-count: infinte;
-	animation-direction: alternate-reverse;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
 }
 
 @keyframe color {

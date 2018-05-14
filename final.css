@@ -1,0 +1,98 @@
+h1 {
+	font-size: 75px;
+	font-family: Palatino;
+	color: #436E35;
+	text-decoration: none;
+	width: 65%;
+	text-align: center;
+}
+
+h1:hover {
+	color: #333D30;
+}
+
+a {
+	text-decoration: none;
+	color: #748C6B;
+	font-family: Palatino;
+	font-size: 20px;
+}
+
+a:hover {
+	color: #436E35;
+}
+
+p {
+	font-size: 20px;
+	font-family: Palatino;
+	width: 65%;
+	line-height: 1.5;
+	text-align: justify;
+}
+
+h2 {
+	font-size: 20px;
+	font-family: Palatino;
+	width: 45%;
+	line-height: 1.5;
+}
+
+.breaker {
+	background-color: #8EAF83;
+	width: 75%;
+}
+
+.breaker:hover {
+	background-color: #5B7751;
+	transition: all 2s; background-color 2.25s;
+	-webkit-transition: all 2s; background-color 2.25s;
+	-moz-transition: all 2s; background-color 2.25s;
+}
+
+h3 {
+	font-size: 25px;
+	font-family: Palatino;
+	width: 45%;
+	color: white;
+
+}
+
+h3:hover {
+	font-size: 30px;
+	transition: all .5s ease-in-out;
+	-webkit-transition: all .5s ease-in-out;
+	-moz-transition: all .5s ease-in-out;
+}
+
+img {
+	width: 220px;
+	height: 250px;
+}
+
+img:hover {
+	transform: scale(1.75);
+	transition: 1.5s ease-out;
+	-webkit-transition: 1.5s ease-out;
+	-moz-transition: 1.5s ease-out;
+}
+
+.img {
+	width: 75%;
+}
+
+.special {
+}
+
+.special:hover {
+	text-decoration: underline;
+}
+
+#map {
+	height: 350px;
+	width: 600px;
+	align-content: center;
+}
+
+.footer {
+	background-color: #8EAF83; 
+}
